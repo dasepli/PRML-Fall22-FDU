@@ -6,7 +6,7 @@ Course website for PRML Fall 2022 at Fudan University ([Github Link](https://git
 - **Instructors**: [Prof. Xipeng Qiu](https://xpqiu.github.io/index.html), [Prof. Yugang Jiang](http://www.yugangjiang.info/bioChn.html)
 - **TAs**: <a href="mailto:lip21@m.fudan.edu.cn">Peng Li</a>
 - **Time**: Monday 6:30 pm - 9:05 pm
-- **Venue**: H3205 / Online
+- **Venue**: HGX0502 / Online
 - **Prerequisites**: College Calculus, Linear Algebra, Probability and Statistics, Numerical Optimization and Python Programming
 - **TextBooks**：
 	- *Neural Network and Deep Learning, Xipeng Qiu*, [online version](https://nndl.github.io/)
@@ -24,7 +24,7 @@ Course website for PRML Fall 2022 at Fudan University ([Github Link](https://git
 
 |Date| Description | Course Materials | Events | DDLs |
 | :-- | :-- | :-- | :-- | :-- |
-|05/09 |Lec1: Introduction  | | Exercise: <br>[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/),<br>[Deep Learning Hardware and Software](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf),<br>[Paddle Tutorial](https://github.com/nndl/practice-in-paddle/blob/main/chap1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80.ipynb)| |
+|05/09 |Lec1: Introduction  |Reading:<br>[[ICLR20]DEEP DOUBLE DESCENT](https://openreview.net/forum?id=B1g5sA4twr)| Exercise: <br>[Deep Learning Hardware and Software](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf),<br>[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/),<br>[Paddle Tutorial](https://github.com/nndl/practice-in-paddle/blob/main/chap1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80.ipynb)| |
 | |Lec2: Linear Regression  | | | |
 | |Lec3: K-NN and Decision Tree | | | |
 | |Lec4: Perceptron and Logistic Regression  | |  | |
