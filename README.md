@@ -25,7 +25,8 @@ Course website for PRML Fall 2022 at Fudan University ([Github Link](https://git
 |Date| Description | Course Materials | Events | DDLs |
 | :-- | :-- | :-- | :-- | :-- |
 |05/09 |Lec1: Introduction  |Reading:<br>[[ICLR20]DEEP DOUBLE DESCENT](https://openreview.net/forum?id=B1g5sA4twr)| Exercise: <br>[Deep Learning Hardware and Software](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf),<br>[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/),<br>[Paddle Tutorial](https://github.com/nndl/practice-in-paddle/blob/main/chap1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80.ipynb)| |
-| |Lec2: Linear Regression  | | | |
+|12/09 |Cancelled for Mid-Autumn Festival | | | |
+|19/09 |Lec2: Linear Regression  |Video:<br>[Linear Regression](https://zhibo.chaoxing.com/1000095851835004) | | |
 | |Lec3: K-NN and Decision Tree | | | |
 | |Lec4: Perceptron and Logistic Regression  | |  | |
 | |Lec5: Kernel Method and SVM | |  | |
